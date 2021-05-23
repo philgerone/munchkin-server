@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/static/js/main.54d991ce.chunk.js",
+    "main.js.map": "/static/js/main.54d991ce.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.54d008ec.js",
+    "runtime-main.js.map": "/static/js/runtime-main.54d008ec.js.map",
+    "static/js/2.aa0ea841.chunk.js": "/static/js/2.aa0ea841.chunk.js",
+    "static/js/2.aa0ea841.chunk.js.map": "/static/js/2.aa0ea841.chunk.js.map",
+    "static/js/3.e2580503.chunk.js": "/static/js/3.e2580503.chunk.js",
+    "static/js/3.e2580503.chunk.js.map": "/static/js/3.e2580503.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.aa0ea841.chunk.js.LICENSE.txt": "/static/js/2.aa0ea841.chunk.js.LICENSE.txt",
+    "static/media/dragon de plutonium.72cb6fdb.png": "/static/media/dragon de plutonium.72cb6fdb.png",
+    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg",
+    "static/media/nez flottant.9e518018.png": "/static/media/nez flottant.9e518018.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.54d008ec.js",
+    "static/js/2.aa0ea841.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.54d991ce.chunk.js"
+  ]
+}
